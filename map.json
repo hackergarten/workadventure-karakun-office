@@ -52,8 +52,7 @@
                  "properties":[
                         {
                          "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Feast"
+                         "type":"string"
                         }
                      ],
                  "type":"tilelayer",
