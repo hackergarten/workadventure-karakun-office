@@ -374,11 +374,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/myvolta.ch\/"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,11 +392,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"UI\/UX"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
