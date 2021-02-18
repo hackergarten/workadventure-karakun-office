@@ -1,6 +1,6 @@
 # A place to chill, work and meet people
 
-This map is live over [here](https://play.workadventu.re/_/global/grigala.github.io/karakun-ag-office/map.json) and is under heavy construction => **EAP**.
+This map is live over [here](https://play.workadventu.re/_/global/hackergarten.github.io/workadventure-karakun-office/map.json) and is under heavy construction => **EAP**.
 
 There are total 8 `jitsiRoom`s in this map where more than 4 persons at a time can have a conversation. 
 
