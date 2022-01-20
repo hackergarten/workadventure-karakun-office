@@ -50,7 +50,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.euer.krebsco.de\/p\/20220120VirtualHackergartenBasel?showControls=true&showChat=false&showLineNumbers=true&useMonospaceFont=false"
+                 "value":"https:\/\/www.hackergarten.net\/workadventure-karakun-office\/20220120VirtualHackergartenBasel.md"
                 }],
          "type":"tilelayer",
          "visible":true,
