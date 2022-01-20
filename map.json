@@ -50,7 +50,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hackergarten.net"
+                 "value":"https:\/\/github.com\/hackergarten\/contributions\/wiki\/Virtual-Basel-Hackergarten-January-2022"
                 }],
          "type":"tilelayer",
          "visible":true,
