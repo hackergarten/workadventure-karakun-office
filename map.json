@@ -50,7 +50,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.euer.krebsco.de\/p\/20220120VirtualHackergartenBasel"
+                 "value":"https:\/\/etherpad.euer.krebsco.de\/p\/20220120VirtualHackergartenBasel?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false"
                 }],
          "type":"tilelayer",
          "visible":true,
