@@ -50,7 +50,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/hackergarten\/contributions\/wiki\/Virtual-Basel-Hackergarten-January-2022"
+                 "value":"https:\/\/etherpad.euer.krebsco.de\/p\/20220120VirtualHackergartenBasel"
                 }],
          "type":"tilelayer",
          "visible":true,
