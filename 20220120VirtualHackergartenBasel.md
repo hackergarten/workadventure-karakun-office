@@ -12,6 +12,8 @@ Please find us in our Slack channel (see hackergarten.net for details how to joi
 
 ## Topics
 
+* [Stylophile Flutter App]( https://github.com/hackergarten/contributions/issues/7 )
+
 (we will collect topics to work on at the start of the hackergarten. 
 
 Please make your way to the upper right corner of the map where the HG logo is. There we will meet&greet and discuss the start.)
